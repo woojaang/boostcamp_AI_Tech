@@ -178,9 +178,11 @@
 
 - 내가 원하는 디렉토리로 가서 실행하기
 
-- ```
-  jupyter notebook(base나 다른 가상환경으로 가서conda activate base)
+- ```python
+  jupyter notebook
   ```
+
+- (base나 다른 가상환경으로 가서conda activate base)
 
 
 
